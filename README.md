@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Orahsolz
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on massive projects
+- 💞️ I’m looking to collaborate with other programmers on massive projects
 - 📫 How to reach me orahsolz@gmail.com
 - 😄 Pronouns: male
 - ⚡ Fun fact: I love learning
